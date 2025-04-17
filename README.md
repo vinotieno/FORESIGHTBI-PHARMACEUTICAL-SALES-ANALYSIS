@@ -99,7 +99,8 @@ Before anlayzing this data set, I had to profile it  and understand what I wante
 
 
 RESULTS AND FINDINGS
-    📊 Summary of Findings:
+
+       📊 Summary of Findings:
        Germany contributed the highest sales, totaling 11,118,107,840.40, which accounts for approximately 94.2% of the overall sales.
        Poland recorded sales amounting to 680,879,801.80, making up about 5.8% of the total.
        The grand total sales across both countries amounted to 11,798,987,642.20.
