@@ -2,7 +2,7 @@
 The main objective of analyzing this pharmaceutical dataset was to explore and understand the sales pipeline, distributor journey, distributor behavior, product performance and sales team perfomance in order to optimize sales strategies, improve distribution efficiency, and enhance product positioning.
 
 ## PROJECT OVERVIEW
-By analyzing Foresightbi Pharmaceutical data set we will be able to optimize sales performance, improve customer targeting, and enhance business decision-making in the pharmaceutical industry.
+By analyzing Foresightbi Pharmaceutical data set, the company will be able to optimize sales performance, improve customer targeting, and enhance business decision-making in the pharmaceutical industry.
 
 
 ## OBJECTIVES 
@@ -15,7 +15,7 @@ Before anlayzing this data set, I had to profile it  and understand what I wante
     5. Geographic & Market Expansion 🌍
 
 
- ## Expanation/ OVERVIEW OF THE OBEJECTIVES/ REASONS WHY I CHOSE THESE OBJECTIVES.   
+ ## EXPLANATION/ OVERVIEW OF THE OBEJECTIVES/ REASONS WHY I CHOSE THESE OBJECTIVES.   
 
      1. Identifying High-Value Customers 📊
      
@@ -103,7 +103,13 @@ Before anlayzing this data set, I had to profile it  and understand what I wante
 
 
 
-RESULTS AND FINDINGS
+
+
+
+
+
+
+## RESULTS AND FINDINGS
 
        📊 Summary of Findings:
        Germany contributed the highest sales, totaling 11,118,107,840.40, which accounts for approximately 94.2% of the overall sales.
@@ -116,13 +122,13 @@ RESULTS AND FINDINGS
        These insights could guide decisions on resource allocation, sales strategies, and market expansion efforts—particularly in underperforming regions.
        
 
-       📊 Summary of Product Sales:
+       📊 Summary of top 5 Product Sales:
        Ionclotide generated the highest revenue with 169,083,391.00, accounting for approximately 27.3% of the total sales.
        Tetratanyl followed with 126,091,294.00 (20.3%).
        Sumanazole contributed 113,861,431.00 (18.4%).
        Betanem recorded 107,073,473.00 (17.3%).
        Docstryl Rivacin brought in 103,811,886.00 (16.7%).
-       The grand total sales across these 5 products amounted to 619,921,475.00.
+       The grand total sales across these top 5 products amounted to 619,921,475.00.
 
        🧾 Insights:
        Ionclotide is the top-performing product, contributing the largest share to overall revenue.
@@ -142,7 +148,7 @@ RESULTS AND FINDINGS
        Despite slight declines, performance remained strong and relatively stable, indicating a resilient product demand.
 
 
-       📊 Sales Summary by Representative and Country:
+       📊 Sales Summary top 5 Sales Representative and Country:
        The total sales generated across Germany and Poland amounted to 4.80 billion.
        Germany contributed the lion’s share with 4.52 billion, while Poland accounted for 274 million.
       
@@ -160,7 +166,7 @@ RESULTS AND FINDINGS
        Consistency among reps suggests a well-distributed performance across the team with minimal sales disparity.
 
 
-       📦 Distributor Sales Summary by Country:
+       📦 Top 10 Distributors Sales Summary by Country:
        The total sales across all distributors amounted to 10.93 billion, with the vast majority coming from Germany (10.77 billion) and only 150.8 million from Poland.
        Only one distributor (Beier) had sales in Poland, highlighting limited market penetration there.
 
@@ -178,7 +184,7 @@ RESULTS AND FINDINGS
        The data suggests a high dependency on the German market, indicating a growth opportunity in Poland by expanding distributor coverage and engagement.  
 
 
-       🧾 Customer Sales Summary – Pharmaceutical Sector
+       🧾 Top 10 Customer Sales Summary per Country – Pharmaceutical Sector
        📍 Total Sales:
        Combined customer sales amounted to 588.9 million
        Germany contributed the majority with approximately 490.6 million,
@@ -208,7 +214,7 @@ RESULTS AND FINDINGS
 
 
 
-       📅 Monthly Product Sales Summary – Pharmaceutical Sector
+       📅 Top 3 Monthly Product Sales Summary
        📈 Top Performing Months (by Total Product Sales):
        August – KSh 154.46M
        Led by Ionclotide (KSh 83.57M), the single highest monthly product sale.
@@ -231,7 +237,7 @@ RESULTS AND FINDINGS
       Several key drugs show repeat high-performance, indicating strong market demand or consistent distribution strategies.
 
 
-      🧾 Sales Team Performance Summary – Pharmaceutical Sales
+      🧾 Sales Team Performance Summary
       📊 Total Sales:
       KSh 11.80 billion
 
