@@ -15,7 +15,7 @@ Before anlayzing this data set, I had to profile it  and understand what I wante
     5. Geographic & Market Expansion 🌍
 
 
- ## EXPLANATION/ OVERVIEW OF THE OBEJECTIVES/ REASONS WHY I CHOSE THESE OBJECTIVES.   
+ ## EXPLANATION/ OVERVIEW OF THE OBJECTIVES/ REASONS WHY I CHOSE THESE OBJECTIVES.   
 
      1. Identifying High-Value Customers 📊
      
