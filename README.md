@@ -6,12 +6,12 @@ By analyzing Foresightbi Pharmaceutical data setwe will be able to optimize sale
 
 
 ## OBJECTIVES 
-Before anlayzing this data set, I had to profile it  and understand what I want from this dataset.
+Before anlayzing this data set, I had to profile it  and understand what I wanted from this dataset.
 
     1. Identifying High-Value Customers 📊
     2. Sales Trend Analysis & Forecasting 🔮
     3. Optimizing Sales Team Performance 🚀
-    4.  Product Performance Analysis 💊
+    4. Product Performance Analysis 💊
     5. Geographic & Market Expansion 🌍
 
 
@@ -50,10 +50,30 @@ Before anlayzing this data set, I had to profile it  and understand what I want 
          Geographic & Market Expansion analysis will help in expanding into profitable markets while reducing efforts in low-performing ones.
          Geographic & Market Expansion analysis will Allow for customized regional pricing strategies based on local purchasing power.
 
+
+
+## DATA VISUALIZATION
+
+    
+
+
+![Capture](https://github.com/user-attachments/assets/f87ffb34-af92-40e9-905e-51c24df44a96)
+
+
+
+
+
+
+
+![Capture1](https://github.com/user-attachments/assets/f922f1a1-51aa-4856-a9c8-c8d313cbbdc9)
+
+
+
     
 
 
 
+![Capture2](https://github.com/user-attachments/assets/f21dce01-ff38-435e-8882-e5f407cd2b79)
 
 
 
@@ -63,7 +83,18 @@ Before anlayzing this data set, I had to profile it  and understand what I want 
 
 
 
-    
+![Capture3](https://github.com/user-attachments/assets/955e9e94-7ddc-4c8e-be55-05b6944dbaab)
+
+
+
+
+
+
+
+
+
+
+![Capture4](https://github.com/user-attachments/assets/52b76c1a-f8f7-48f8-a53a-efb8b415133d)
 
 
 
