@@ -25,7 +25,7 @@ Before anlayzing this data set, I had to profile it  and understand what I wante
         
      2. Sales Trend Analysis & Forecasting 🔮
      
-        By analyzing monthly sales trends, the company can predict future sales patterns and prepare for demand fluctuations.
+        - By analyzing monthly sales trends, the company can predict future sales patterns and prepare for demand fluctuations.
         It will aslo identify seasonal demand patterns—e.g., higher sales for Antimalarial medicine during certain months.
         It will also help in adjusting production and inventory levels accordingly.
         Example: If sales of a certain drug spike every August, the company should stock up in advance to avoid shortages.  
